@@ -11,13 +11,15 @@
 |------|------|
 | **单文件版**（下载后任意目录 `@` 即可） | [shiki-wechat-summary-plus.md](shiki-wechat-summary-plus.md) |
 | **完整 Skill**（推荐安装到 Cursor） | 本仓库根目录 `SKILL.md` + `references/` + `scripts/` |
-| **ZIP 打包** | [Releases](https://github.com/REPLACE_OWNER/shiki-wechat-summary-plus/releases) 或仓库内 `shiki-wechat-summary-plus.zip` |
+| **ZIP 打包** | [Releases](https://github.com/lys11111/Skills/releases) 或仓库内 `shiki-wechat-summary-plus.zip` |
 
-单文件 Raw 直链（发布到 GitHub 后替换 `REPLACE_OWNER`）：
+单文件 Raw 直链：
 
 ```text
-https://raw.githubusercontent.com/REPLACE_OWNER/shiki-wechat-summary-plus/main/shiki-wechat-summary-plus.md
+https://raw.githubusercontent.com/lys11111/Skills/main/shiki-wechat-summary-plus.md
 ```
+
+本 Skill 位于仓库 [lys11111/Skills](https://github.com/lys11111/Skills)。
 
 ## 安装（3 步）
 
