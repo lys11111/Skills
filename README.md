@@ -80,17 +80,6 @@ wechat/
 └── private/{wxid}-{昵称}/
 ```
 
-**不要**把 `wechat/` 或 `.shiki-skills/` 提交到公开仓库。
-
-## 与 baoyu-wechat-summary 区别
-
-| 功能 | shiki+ | baoyu |
-|------|--------|-------|
-| 群聊精华 | ✓ | ✓ |
-| 记忆点 / 送礼 / 生日 | ✓ | — |
-| 恋爱交友攻略 | ✓ | — |
-| 私聊一等公民 | ✓ | 弱 |
-| topics.json / knowledge.json | — | 用 wechat-chat-insight |
 
 ## 可选：校验记忆 YAML
 
