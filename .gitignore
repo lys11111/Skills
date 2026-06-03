@@ -1,0 +1,13 @@
+# 个人数据 — 切勿提交
+wechat/
+.shiki-skills/
+**/.shiki-skills/
+
+# 本地预览 / 临时
+_zip-preview/
+*.local
+.DS_Store
+Thumbs.db
+
+# 非本仓库产物（同目录其他草稿）
+shiki-content-publisher.md

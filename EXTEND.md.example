@@ -1,0 +1,31 @@
+# shiki-wechat-summary-plus preferences
+#
+# Copy to (first match wins):
+#   .shiki-skills/shiki-wechat-summary-plus/EXTEND.md           (project root)
+#   %USERPROFILE%\.shiki-skills\shiki-wechat-summary-plus\EXTEND.md
+#
+# Keys are case-insensitive. Use `key: value` or `key=value`. Lines starting with # are ignored.
+
+# REQUIRED — your wxid (messages from this id are attributed to self_display)
+self_wxid: wxid_xxxxxxxxxxxx
+
+# REQUIRED — how your own messages appear in digests
+self_display: 你的昵称
+
+# OPTIONAL — default time range when user omits time and no history.json anchor (7d, 24h, YYYY-MM-DD)
+default_time_range: 7d
+
+# OPTIONAL — where chat folders live (groups + private/)
+# data_root: D:\path\to\wechat
+
+# OPTIONAL — default run mode when user is vague: group_digest | private_digest
+# default_mode: group_digest
+
+# OPTIONAL — default relationship label for new memory files: friend | crush | partner | colleague | family
+default_relationship: friend
+
+# OPTIONAL — include 关系攻略 section in group_digest (true/false)
+include_playbook_in_digest: true
+
+# OPTIONAL — allow roast/毒舌 variant (default false for social-safety)
+allow_roast: false

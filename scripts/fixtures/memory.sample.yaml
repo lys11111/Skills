@@ -1,0 +1,28 @@
+wxid: wxid_sample0001
+display_name: 示例群友
+relationship_to_self: friend
+updated_at: "2026-06-01"
+memory:
+  birthday: "03-15"
+  likes:
+    - 雀魂
+    - 三角洲攻略
+  dislikes: []
+  gift_ideas:
+    - 赛事周边
+  taboos:
+    - 别逼打 CS
+  hobbies:
+    - 麻将
+  communication_style: 短句连发、@ 密集
+  notes:
+    - 深夜更活跃
+evidence:
+  - date: "2026-02-06"
+    quote: "@万事胜意 可以雀魂"
+    field: hobbies
+    confidence: high
+  - date: "2026-05-07"
+    quote: 推断：对 CS 话题回避
+    field: taboos
+    confidence: low
